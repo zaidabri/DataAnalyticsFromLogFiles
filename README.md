@@ -1,2 +1,2 @@
 # DataAnalyticsFromLogFiles
-This repository provides tools and techniques for extracting valuable insights and analytics from log files. The repository includes scripts and code samples for parsing, cleaning, and transforming log files into structured data.
+This repository houses the data analysis portion of the master's thesis titled "Cloud Workflow Controller for IIoT Solutions in Additive Manufacturing". This repository provides tools and techniques for extracting valuable insights and analytics from log files. The repository includes scripts and code samples for parsing, cleaning, and transforming log files into structured data.
